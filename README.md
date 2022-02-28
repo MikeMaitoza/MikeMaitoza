@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeMaitoza
 - 👀 I’m interested in front-end and full-stack web development.
-- 🌱 I’m currently learning functional programming.
+- 🌱 I’m currently learning best practices for web development.
 - 💞️ I’m looking to collaborate on all things code and coffee!
 - 📫 How to reach me @mikemaitoza1 on Twitter mike@mikemaitoza.com
 
